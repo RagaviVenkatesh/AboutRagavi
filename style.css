@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+body{
+    font-family: 'Nunito Sans', sans-serif;
+    background: linear-gradient(to top, #33ccff 0%, #ffcccc 100%);
+}
+#card{
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 100px 300px 100px 300px;
+    text-align: center;  
+    padding: 10px;
+}
+hr{
+    width: 400px;
+}
+#card img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+ 
+div a{
+    text-decoration: none;
+    color: black;
+}
+h1{
+    color: #000000;
+}
